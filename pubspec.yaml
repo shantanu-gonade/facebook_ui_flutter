@@ -31,6 +31,8 @@ dependencies:
   cached_network_image: ^2.3.2+1
   cupertino_icons: ^1.0.0
   material_design_icons_flutter: ^4.0.5655
+  shelf: any
+  shelf_static: any
 
 dev_dependencies:
   flutter_test:
