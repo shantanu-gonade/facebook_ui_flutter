@@ -37,7 +37,7 @@ class CustomAppBar extends StatelessWidget {
         children: [
           Expanded(
             child: Text(
-              'facebook',
+              'Like One',
               style: const TextStyle(
                 color: Palette.facebookBlue,
                 fontSize: 32.0,
